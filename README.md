@@ -1,4 +1,5 @@
 Project Title: Supermart Grocery Sales Retail Analysis Dashboard
+
 📌 Project Description
 
 This project focuses on analyzing Supermart grocery sales data using an interactive dashboard. The dashboard highlights overall sales, profit, discounts, and customer performance while also providing insights into categories, sub-categories, cities, and regions.
@@ -48,3 +49,11 @@ Goal: Provide a centralized sales monitoring system to support decision-making.
 💡 Profitability vs Discount: Scatter plot showing discount impact on profit
 
 👥 Customer Analysis: Detailed table highlighting customer-wise performance# SupermartGrocerySalesRetailAnalysis-Dashboard
+
+Conclusion
+The Supermart Grocery Sales Retail Analysis Dashboard provides a 360° view of business performance, identifying high-performing regions, customers, and product categories. It also highlights the effect of discounts on profitability, enabling the business to optimize sales strategies, improve profit margins, and build stronger customer relationships.
+
+Screenshots/Demo
+example:https://github.com/SHAIKROUHEEAUCSE/SupermartGrocerySalesRetailAnalysis-Dashboard/blob/main/Snapshot.png
+
+
